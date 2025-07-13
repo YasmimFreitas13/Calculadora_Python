@@ -29,21 +29,13 @@ Este projeto apresenta duas versões de uma calculadora desenvolvida em Python:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Tkinter_logo.png" alt="Tkinter" width="40"/>
+  🪟 Tkinter (interface gráfica nativa do Python)
 </p>
 
 ---
 
-## ▶️ Como Executar
+## 👩‍💻 Autora
 
-### Terminal
-```bash
-python calculadora.py
-
-### Interface Gráfica
-python calculadora_tkinter.py
-
-👩‍💻 Autora
-Desenvolvido com dedicação por Yasmim Freitas
+Desenvolvido com dedicação por [Yasmim Freitas](https://github.com/YasmimFreitas13)
 
 
