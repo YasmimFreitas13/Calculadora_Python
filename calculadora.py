@@ -18,3 +18,8 @@ print('2 - Subtrair')
 print('3 - Multiplicar')
 print('4 - Divisão')
 
+opcao = input('Escolha uma operação (1/2/3/4)')
+
+n1 = float(input('Digite um número: '))
+n2 = float(input('Digite um segundo número: '))
+
