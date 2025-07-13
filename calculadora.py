@@ -23,3 +23,18 @@ opcao = input('Escolha uma operação (1/2/3/4)')
 n1 = float(input('Digite um número: '))
 n2 = float(input('Digite um segundo número: '))
 
+if opcao == '1':
+    print('Resultado: ', somar(n1, n2))
+
+elif opcao == '2':
+    print('Resultado: ', subtrair(n1, n2))
+
+elif opcao == '2':
+    print('Resultado: ', multiplicar(n1, n2))
+
+elif opcao == '2':
+    print('Resultado: ', dividir(n1, n2))
+
+else:
+    print('Opção Inválida')    
+    
