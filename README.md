@@ -21,7 +21,7 @@ Este projeto apresenta duas versões de uma calculadora desenvolvida em Python:
 ![Calculadora no terminal](./imgs/terminal.png)
 
 ### Interface Gráfica (Tkinter)
-![Calculadora com Tkinter](./imgs/imagtkinter.png)
+![Calculadora com Tkinter](./imgs/tkinter.png)
 
 ---
 
