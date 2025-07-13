@@ -27,11 +27,8 @@ Este projeto apresenta duas versões de uma calculadora desenvolvida em Python:
 
 ## ⚙️ Tecnologias Utilizadas
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
-  🪟 Tkinter (interface gráfica nativa do Python)
-</p>
-
+- 🐍 Python 3
+- 🪟 Tkinter (GUI)
 ---
 
 ## 👩‍💻 Autora
